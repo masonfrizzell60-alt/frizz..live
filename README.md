@@ -1,8 +1,8 @@
-Four differently-themed fan pages about the TikTok LIVE creator frizz.dot.live.
+Four articles about the TikTok LIVE creator frizz..live, each set in a different publication style.
 
-- /neon/ dark stream hub
-- /press/ editorial magazine profile
-- /arcade/ CRT terminal
-- /bold/ brutalist poster
+- /profile/  magazine profile (The Live Review)
+- /nightread/ dark long-form essay (The Night Read)
+- /zine/     photocopied zine field report (Chat Noise)
+- /paper/    newspaper front page (The Daily Feed)
 
-Created 21 August 2026.
+Created 21 August 2026. Rewritten as articles 22 August 2026.
